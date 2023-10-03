@@ -1,10 +1,10 @@
-# Android Project 4 - *FlixsterPlus*
+# Android Project 4 - *FlixsterPart2*
 
-Submitted by: **Adebola Ajayi**
+Submitted by: **Oluwasubomi Bashorun**
 
-**FlixsterPlus** is a movie browsing app that allows users to browse ... [TODO] 
+**FlixsterPart2** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **20** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 - [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
 - [x] **Add rounded corners to the images using the Glide transformations**
-- [ ] **Implement a shared element transition when user clicks into the details of a movie**
+- [x] **Implement a shared element transition when user clicks into the details of a movie**
 
 The following **additional** features are implemented:
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/AdebolaAj/FlixsterPlus/blob/main/Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Adebola Ajayi]
+    Copyright [2023] [Oluwasubomi Bashorun]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
