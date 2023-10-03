@@ -4,7 +4,7 @@ Submitted by: **Oluwasubomi Bashorun**
 
 **FlixsterPart2** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **2** hours spent in total
+Time spent: **72** hours spent in total
 
 ## Required Features
 
